@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // one 
 // we will win 
-    #[event]
+    #[event] // uniswap
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
