@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-// one //Nion 
+// one //Nion //scipt
 // we will win //Vertigo
     #[event] // uniswap
     fn Hello(from: ContractAddress, value: felt252) {}
