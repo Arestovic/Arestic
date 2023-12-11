@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // one //Nion //scipt
 // we will win //Vertigo
-    #[event] // uniswap
+    #[event] // uniswap //crypto
     fn Hello(from: ContractAddress, value: felt252) {}
 // Pancake //bmw
 // I need new ferrari
