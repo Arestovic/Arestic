@@ -7,7 +7,7 @@ mod HelloStarknet {
     #[event] // uniswap //crypto
     fn Hello(from: ContractAddress, value: felt252) {}
 // Pancake //bmw //lifechange
-// I need new ferrari
+// I need new ferrari //brand new lambo
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
