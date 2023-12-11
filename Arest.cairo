@@ -6,7 +6,7 @@ mod HelloStarknet {
 // we will win //Vertigo
     #[event] // uniswap //crypto
     fn Hello(from: ContractAddress, value: felt252) {}
-// Pancake //bmw
+// Pancake //bmw //lifechange
 // I need new ferrari
     #[external]
     fn Say_Hello(message: felt252) {
